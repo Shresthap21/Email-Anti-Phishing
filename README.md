@@ -10,8 +10,8 @@ How It Works:
 Installation:
 
 -Clone this repository:
-     git clone https://github.com/your-username/phishing-detector-extension.git
-     cd <foldername>
+     git clone https://github.com/your-username/folder-name.git
+     cd folder-name
 
 -Open Chrome and navigate to chrome://extensions/.
 -Enable Developer Mode.
